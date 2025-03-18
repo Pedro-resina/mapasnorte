@@ -35,5 +35,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.730045116046057,41.651389441415176]},"properties":{"monumento":"Sala de Exposiciones del Museo de la Pasión"},"id":"33"},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.729132998835979,41.64693246965595]},"properties":{"monumento":"Centro de Recursos Turísticos"},"id":"34"},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-4.729168921895564,41.65381708797665]},"properties":{"monumento":"Mercado del Val"},"id":"35"},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-4.72895246873972,41.64807443612773]},"properties":{"monumento":"Casa mantilla"},"id":"36"}
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-4.72895246873972,41.64807443612773]},"properties":{"monumento":"Casa Mantilla"},"id":"36"}
 ]}
